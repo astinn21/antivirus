@@ -1,0 +1,308 @@
+2026-10-11 20:17:19 [INFO] Scan started: type=quick target=C:\Users\MARC JUSTIN\Downloads, C:\Users\MARC JUSTIN\Documents, C:\Users\MARCJU~1\AppData\Local\Temp
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\ACTIVITY-2 (1).pdf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\ACTIVITY-4.pdf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\ACTIVITY3.pdf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\Anchor_Point_Events_Letter_with_Logo.docx | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\antivirus.zip | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\basta.avif | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\BraveBrowserSetup-BRV010.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\ChromeSetup.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\Composer-Setup.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\CTHM-NEW-HEADER-PORTRAIT-1.docx | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\ENVI-SCI-Chapter-5.pdf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\FRAMEWORK BSCS1.0.pdf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\GENDER AND SOCIETY.pptx | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\Git-2.55.0.3-64-bit.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\IAS_Module.pdf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\Install VALORANT.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\JFLAP7.1.jar | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\UTS.pptx | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\virus_signatures.json | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\02\8f5bc49693b7339371b1350a3db9aa001452ad | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\03\d491165b586c70d9eaab7ca25fc08f95de761e | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\04\031a9b911ecd8ac68f0e426eca981d33818166 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\04\d262c7243aad8c53eb4823207fbab1eb1362fa | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\08\a6b733312c9c530614e2335f169d148856e409 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\09\c1a2cfefaa986c846b41743e856c945beff3cd | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\0b\2a72d52486210e0b8b3c8ceabb10843e1b1409 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\0b\5280f75e6f5e3939e1a062bc2eca7316bdba65 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\0b\9de0f1274bbd4f85d316b477abc65d0306e14d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\0b\a9678373217ac00755e68009226ec5dce6a69d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\0f\e52badf87081737d7fb8607a6606c1ac1a347a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\11\a49939e3a042b91423286f672c2e383f5cd1e6 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\14\b4b84d45f63373da90ce62772d928b6bc1c74f | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\17\eed68c4b10c5882ac289fc488ea405f577a161 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\1b\35e323112cef1d2dac5279494b226f53b45b24 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\1d\62f6ed10bee1ee9196e9ca81a731a32c87f0a9 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\20\52022fd8e1e0829ce5496bd663c0aed41dd634 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\21\2a11f13562def0b3e9d21cc4ac921ae95708f0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\25\96c0d633f4358baaea3cdc2585fa4a98a77de1 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\25\a5ac902ba7df03d4ef2c1562f893ae5a0009eb | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\28\f044894f44a651d6d185ff40f3f5a2da483bcf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\29\5a47f95cb257fd3cb2e4f44011934a3db4f157 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\30\be38132935e0cb413a08c87d28de199522d201 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\32\7dfbafaf259a9f7a129e5fa3add6a69ac7065e | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\33\9ee5753b7fc4080508e8acd300a7e6b797b784 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\34\684855a5da7e7b7e53bb840bf64fd178aa57ef | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\35\b3320a16b73ad186e92c756ef849c242b92dea | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\35\e4e7000e987e87619b52d167dbab731adc20cc | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\36\94f344ab58a0a8f802b7880797854a2b67aa41 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\38\053dc886ab6a5e51083c6feb2859b8a81f85ab | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\3d\ea055bbc28be71b11112f208c3de8a7df3128e | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\3e\00c25963274b4a67c2d22ba60e7f6df900443b | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\3f\3ab3760916280824084bcff39a3778d7372282 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\45\bef9155386fa0009f5f2f1f9dbe2d67a7bb7bb | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\47\3651080410de5f1557b5070497e45f5b1a1adf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\49\00cbc43afef9e6bdbc4ae5a862c26d0d496924 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\4c\ed3332ce690a197a6117df71294afdb150bb9a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\4f\115b1c5818240b787d058245495094dc795704 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\4f\2e42a25b6baa1e849cbdc3071c1df82a8af114 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\4f\34026dfa6310767529d0763f92c990894b1a3a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\51\fe403b40b51ca97784f06b3994bb1817a5dac0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\52\39865a6f8b4c95e968432b1f30aff55878e165 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\52\8aa4f3dca71e8eb36d2bad6e66275b289e18a6 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\53\9e2859a3cfc416ab334580a52d39045896e1d5 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\55\2167ef62c18d2fc0ae764e51462767488734cf | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\59\38304f61229d060ab6e50374c622798d0d3377 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\5d\f7df5027ca11c68212ff11906b2b2f5a6bca8d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\62\138329acba6e8e11974987a82c80fa9f1057b4 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\62\1d2e74f5db1a061e9834a17e930c246781060e | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\63\d0ffd674e575971c23d6900b676e12db862bde | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\67\9b18cf9f1ff637a8fad62ef1f4feffe51a1268 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\68\11b90a920a853e58c16a92b780e3a569ad6b24 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\6d\1e6373901cf01fd79a0299b771cb37be72a3a7 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\70\58c1f05e22b4dbf802ca3b2cdd2681b353ff88 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\71\db338343fbc967958d7909c3a2c9af9e89c918 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\78\24d8f7eafe8db890975f0fa2dfab31435900da | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\79\a6802679a95d2d061445fe0df88abefa8dbe36 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\7a\33c5e0bbfb90a9343debf9b8ce02768fdff9d8 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\80\13f37c4dff3ba4fab3645bc175049f2aa085c0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\81\199e335ad06510e94c54b1c6dac693171edc81 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\88\5585b441fb2f6b9ddfbee3bca2f569f7d9fba3 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\8a\94f6a0445ecdc1f793da2f59f2c9ac2673d946 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\8c\97dd947c643319dbba4755eec276f5b222de90 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\93\42b9c757f346f2e7d06415b5b2e9214c7dfb7f | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\93\addc9e335ca1676831cf6741b84b01b69ffbd7 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\95\f9e7412f7b44e3a3a38dc882c3fb3187ae7703 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\96\3fcc88d87033cdd7a185dfca84c30f70800b41 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\97\1e4d09bbfb27574e775b07565d63a0a3357f41 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\98\72c1921947e336c82987b6fd7625ae2ca2737d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\9e\92ddaaf793ed2dd64d4eea6b1fe563bb880a1e | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\a2\94beecce158a5caa398dafee2a335c6758ff47 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\a6\87e0ddb6f266cd0778ee124f1b47d7103f845b | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\a6\d582d83340f512fab76e76ce7d75daaa5249e0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\a7\e958860c5a146de15f68be2bec98335887d92f | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\ab\5550168feed9712d2e371f0701361bc4404950 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\b0\5e6d80d969a3fdc3cf28ff9844d4e4d1ceeba6 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\b1\23aa5fc06a3b96148f6ac48ceba79cb78a189a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\b3\0f0520142c18ae24df23a8f20034b05a848c3d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\b4\09f2d4880de2e2502e892290f087653d4fa56e | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\b7\d8a46f6600c1ab8dc37721ac15a48f6c7d849d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\bb\05d2d92397eab9e99807011fd1c75cabc82314 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\bf\0421f241959130d744b8126e4710ea90b05bae | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\c4\1f675dfd1e82f186f6e6266c416a5dd98e0517 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\c4\3aef3ebe426414956b8dbf8275b0735a31c5ce | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\ca\284ee21645059528d619f26281c0bf02573454 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\ca\cb6c37e5ae5a386928b613c542308c7985e3db | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\cb\b3622a09e1d4deb1ba3754c4b9fa95e3b3b383 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\cb\da1a1296c4271ea9c819facc7c252e5c05f2a0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\cf\3bda69f29ca64fa3ac66c9dde1fd132d69aebc | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\d0\1869cec8ce81d3efb403c16f3ed11132381a81 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\d1\5bed1c8340853210fd4661108f2aebaf660397 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\d2\856e057ba4c344ea98ef8344f0859a6d3b5239 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\d6\5576e2d47399e282b81aa777c8ca2ff8e1980a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\dc\e502aa02f447b267bb87a8d7b3567eae1e9d45 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\de\1942920995c67a0861a519f5438f86adca50a0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e3\6b8e7ab012bf9fea9c4d4523a69e9cb90bbd70 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e4\53e285ce4b78cf893933df0ae198a211532480 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e4\cd54671744835740a97204dad60e84d9615f98 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e5\7e35545c5de3efb61fdb66fa2a5ba88fb26a18 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e6\a3d85ef62dd2ece7f6719b224411526244426e | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e6\b58b0dbe522cd2678a503272190f0c88b921ae | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e7\70a1a265f8e6f1c775e68e07ba3f1c1f9b3271 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\e7\e59d2b67a4a149ad5e2e3606664871d5223dcd | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\ef\38bf4e613d0f3ca8700f21f52de387677f8785 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\f0\957b80a919f793be8ee8aa5a3b914655fc8ed5 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\f1\66cc57b2783565bc48e8999103c572fca4c0e4 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\f2\7399a042d95c4708af3a8c74d35d338763cf8f | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\f7\95580a143e0d3dc66db51bf24cd9f783c0766b | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\f7\9ad7424c9547cabfff286a28e1d7080981a897 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\.git\objects\ff\ded40965f67859ab86560e2464b499cd2df5ae | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\js\script.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARC JUSTIN\Downloads\htdocs\htdocs\uploads\package_images\69fabc3d6d41e.webp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\047713ab-4c89-487b-8cf9-2a356ac9fc98.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\078abb5a-2afa-4aae-944b-14a01ccea741.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\08d54c18-eab7-4eca-9d73-fc441d28cf7d.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\0d86f707-cf30-4d46-90b3-9eb7381b2433.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\1127333a-a28f-473e-b877-8e114c27081a.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\18aceb7f-96ae-4bea-8e7b-a6d1e95c23b1.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\199bdd6a-e03a-44ef-8606-df6dd24496a1.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\1a548199-9d00-4243-8901-83c2fcb77c27.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\1e77bce6-af23-42c1-9628-167a9c87466d.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:20 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\200eeb42-d4c0-4b0a-afce-05461050e348.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\2c75b077-e8af-419b-9456-3dc458711ea3.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\2ce13266-a029-48a9-b603-e3636530d2a8.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\2cf168e1-d781-4ef2-a4c0-21840f4ada76.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\2edc3dbe-447f-4bde-bd06-0f630bd3a3e6.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\2f39a954-f2b0-4fd7-a65a-cc97bbef0b7c.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\306e6fe6-8b10-4e2e-8372-4f9360d1e4a7.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\357642f4-4f61-4df1-bff9-aade7d09712b.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\35e703bc-cf3f-44c4-a7d0-4e6586a33205.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\3a727205-2b90-456b-9e18-57d46febc8db.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\3b024944-87fa-4ab7-bcfe-4f1ae923c586.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\3c1d9f96-f5a3-426a-bd38-2b1bf0b32547.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\3c206f15-67ea-41d9-9063-37003a3118e0.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\3d604f8b-052e-4406-b57c-4650b096933a.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\3e260138-2982-45f2-88e0-e49fed8e1a48.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\3f152af2-bb79-4b03-b82f-181299327a60.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\403a0282-20fa-4808-aa6d-82430cbafa83.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\4214ef8f-68f6-4c7b-a83f-d140d463f8ca.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\4fce83d4-ee6f-43ac-a0af-eff57f5c28e7.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\508c8dcd-1044-4f7a-8a3a-cf4212ad153c.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\51996f1d-63e2-459f-ab89-fcedcb164626.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\52971ba2-139a-4ee4-9fb0-fa2616f80b66.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\532066bb-ea88-4e67-b4a0-f304c9f73384.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\53568dff-43b2-44a3-a663-b0700689efa3.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\5660cf38-8e26-40c6-9e27-f6fafac1f845.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\5e3ec6ac-6316-4702-bb25-b80e39fa4bfe.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\60f0bb16-dae3-4f57-9d01-4a1812ec4122.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\617a8124-942a-4bb0-8e6d-4145e6673d42.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\62aee254-027b-4699-9c3a-fe080372bc15.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\62d150e7-cbf4-46ba-be49-531c8dfdc37d.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\6a6a935c-6fbc-4e28-b9ee-cd7a75a0044c.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\6ad9af40-e06a-42e9-9d01-4e80059c2a3c.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\6b6e1bbc-5063-415b-a3ff-19aa0af3553b.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\6d2be83b-bf3d-41dd-ba50-7f1b5c8dfcf0.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\6e853e6b-2956-42fe-9f88-81a2da887a84.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\6f8e4d30-659c-4ba1-966a-e56800b229ea.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\6fb3670f-b51c-4a9e-be8e-c3a0dfec37e7.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\719ce180-8fd6-47bf-8592-91c7fb1e8853.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\729e2a33-a3cd-4081-9dc0-cf5bbb966caa.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\73c79e7f-4b57-48c0-8e59-78e7238739dc.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\765d69c3-d3b8-4835-b0ca-d29f0914af13.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\770b7141-e7b1-46b4-be7d-2f2adcb5fd3d.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\77ce5ff9-48cb-435d-b131-982870436ed9.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\7923aa80-ea62-4da8-8e31-50195d081f41.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\79aa77a5-6ead-4458-820b-e460da4fc17f.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\79f5bf1e-db1d-4a12-bc66-cf30d414a2d7.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\7bfb34f1-fbef-4b85-90d7-7f63708d98cd.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\7c8049ab-03b2-4f62-bbe5-bc18e55bb22c.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\810a2ea6-c32b-4ac9-ad2e-ff4dcd0beb57.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\82ef13ca-1c65-404e-b07e-694c2ae7577c.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\84d139b7-9b59-426f-a6d9-f5d1cefb2848.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\8556d769-bae2-4080-962f-3d676edcbb58.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\88a8eb42-58c4-4e75-860c-e904a82ebf82.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\8d209260-11e1-46e2-942d-75aaf797c4ea.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\8ebb6df9-bf29-4a2f-acc3-0942118fe02c.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\8ef75321-ad3b-4ac9-aad9-bf757226dfed.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\90cbb8ea-be9a-4408-80ea-508ed8b0f983.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\92160878-3a48-4422-9347-2363105f899f.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\96ebddf5-9485-4a6e-93a2-65dc43f0eb1e.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\9b297051-ed04-4e56-a54a-e25dc4247d44.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\9f66be3c-c44d-4fb9-be9a-5a45bf7c8615.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\a2256d72-6ae6-43ba-995b-4a9e6c21c9a2.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\a2882b2f-63fe-4af7-983e-46eea65b00ee.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\a473b2e0-eed1-42ad-8752-4fdc5de10e51.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\a4cc85f6-918d-467f-8ed5-189cb7191140.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\a5c2f84e-820b-4822-82d8-6a034e6e7809.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\a5fb63af-321c-45b7-ab3f-59ccc4d52bbf.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\aeb8879e-3332-4003-b5a7-bc8a4934bf97.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\af388e95-689c-4a78-a9a1-2c3a5dc9576b.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b1b2e4ed-204c-452d-a46f-792f0e556666.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b23be7a3-a3f3-479e-a4a8-9f72b80e786b.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b2f1b580-e881-4ec4-9942-7f253975cca5.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b3a13e91-c77b-40d2-b9b2-a902df5efa96.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b49e7d25-5c08-42bb-96ef-a55b3df3f33d.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b5832cc1-275a-4504-90e2-9bdb6818afec.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b78005e6-86e7-4854-9b0c-699c11be7a9d.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\b7a5fd72-a0cc-4f60-9627-1e59e532ab48.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ba89936e-5fef-4704-9364-30f491b2f4a6.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\bbdebda7-dd32-4a4f-96ce-a5ec1c6eca53.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\bedbd066-79e6-4ee8-837b-4225104c953c.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\bf28f11e-2873-4796-a719-c691e05931a2.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\bf812729-e639-4642-96f0-616899c3d427.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c0ac1092-6b5d-4b94-ac75-b3a4de637ff2.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c3391019-6d63-423c-964b-167ebc3b910c.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c43805a8-350d-4236-b98d-f4194a211bcd.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c55ede0c-874b-4326-969b-19788fdf8143.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c6a69f3f-b384-450d-a25c-83c0b7baf8e0.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c6c6604b-c66e-419f-be99-b06db5531347.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c813caa1-db01-47ff-9bf3-7432820e83a3.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\c8bda097-af1f-463b-8777-46dd7f9cfdf1.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\cddc49c9-1924-429f-9f47-d9deedbb8d54.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ce9cecd0-9f2d-4a10-9a95-1dee67f8e101.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:21 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\cefe0814-777f-4ffe-ac9e-505cc6a18978.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\d0f532ca-c75a-4d8b-b285-6aaf3a31042d.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\d164544f-e6af-4817-8f86-528ffc6f0bbc.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\d17d77b7-94c3-489e-90cb-3bd63bbc45f1.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\d2bce690-8085-4d3b-bfa8-6e78751ebd9e.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\d51cb687-75cd-4c9a-9231-4b5f70446991.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\d63949da-7ad5-4e38-a4db-5066c65f3933.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\d7c0deab-4a9d-4d08-a0eb-e54018c13a01.tmp.webm | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\dace86c3-e1bf-46a8-878b-4ec1dfdcc734.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\dcc92a18-78f2-4379-9db7-59e2063a904f.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\dd14e124-7e49-4390-a8a1-ce9e88ec5d5e.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\dd5e6a12-bcdb-446f-9e6e-3d52cfedd99b.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\dde0aa19-993d-4d64-b357-312605dc8ba1.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\df77541a-f968-44ef-b7f9-5e07844b7c01.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\e0ed39c4-99bd-4988-b0c6-337b52543af7.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\e56686b7-1a1a-4fdf-8632-36c1f0cc9558.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\eb6d27ae-b4b3-4854-b8f8-2f861a446184.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ec4e01bb-01c0-4b63-9661-d5c7d7fd1aab.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ef47d58a-d3ee-4ca0-9110-c6f74c6d4b45.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\efa3d4e5-7a6a-49f8-aba2-cf3f13265bce.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\f2a7a48f-bee9-4b40-9f0a-b96b52e6c8fb.tmp.woff2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\f469de68-f200-4031-9359-1a140f3f86ea.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\f4c8d7b3-41b4-41a4-8927-d4ea493e274d.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ff088811-dead-4a7b-9a94-55052f27a4e6.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ff8e78a6-2092-4d5d-88f9-6e401391c866.tmp.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:22 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\umevents.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\wsu913E.tmp | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ACFL\AsIO3_1.02.36\AsusCertService.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ACFL\AsIO3_1.02.36\InstDrv.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ACFL\AsIO3_1.03.02\AsusCertService.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ACFL\AsIO3_1.03.02\InstDrv.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ACFL\ROGLiveServicePackage\ROGLiveServiceSetup.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ACFL\ROGLiveServicePackage\VC\VC_redist.x64.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\ACFL\ROGLiveServicePackage\VC\VC_redist.x86.exe | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:23 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\AWSWVdata\EBWebView\CertificateRevocation\6498.2025.9.4\crl-set | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:24 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\AWSWVdata\EBWebView\PKIMetadata\46.0.0.0\crs.pb | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:24 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\AWSWVdata\EBWebView\SmartScreen\RemoteData\synchronousLookupUris_636976985063396749.rel.v2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:24 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\AWSWVdata\EBWebView\Subresource Filter\Unindexed Rules\10.34.0.84\adblock_snippet.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:24 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\fwuploader\package_index.json.sig | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:24 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\fwuploader\plugin_firmware_index.json.sig | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\VariationsRuntimeSeedV2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\VariationsSafeSeedV2 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\CertificateRevocation\6498.2025.9.4\crl-set | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\00af3f07b5abb71f6d30337e1eef62fa280f06ef19485c0cf6b72171f92ccc0a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\38448ae7d29b58eea0215abd590ba55279c08a4450469b706a0307866502d53a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\720517793663c90e0dbd77cb42709bac49af733f83f73320ba89859d9b0310e0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\7b178e210609ce91b858acfd7f2d9456ce71f6a45e773862cb3c3efa3a6ab999 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\a81d1959892ae4180554347df1b97834abba2e1a5e6b9aeba000ecea26eabecc | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\bec8ead1da3c9600fe66bbcc0e7a9bed9a184c1be821b4d23570c6b7af7f0410 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\cde4f808f038aaffece9680c0356ded00c81c4559e0a431acb45d1276425d9eb | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\ef7bf9efb7c82e6847b572d7781e11fc7fd642a55ab79e42a3d3ba2f80d520f6 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\component_crx_cache\fa29a6d5775ff340900a65b39b02fc8b4b77d403c048d8debf22f2f5d09c61a0 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000002 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000004 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000006 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000007 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000009 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_00000b | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_00000d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000010 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000011 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000017 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_00001c | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_00001f | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000023 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000028 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_00002a | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_00002d | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000031 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000036 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:25 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Default\Cache\Cache_Data\f_000038 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:26 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\PKIMetadata\46.0.0.0\crs.pb | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:26 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\SmartScreen\RemoteData\topTraffic_638004170464094982 | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:26 [WARNING] DETECTED: C:\Users\MARCJU~1\AppData\Local\Temp\WPSWebEB\WPSWebEBAlert\EBWebView\Subresource Filter\Unindexed Rules\10.34.0.84\adblock_snippet.js | threat=Heuristic.Suspicious | methods=rule
+2026-10-11 20:17:26 [INFO] Scan completed: files=3111 threats=306 errors=25 duration=6.734s
